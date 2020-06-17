@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="7497" viewBox="0 0 1920 7497">
+  <defs>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(-1, 0, 0, 1, 1138, 0)" viewBox="-0.575 -22.567 639.873 657.865">
+      <image preserveAspectRatio="xMidYMid slice" width="569" height="635.224" xlink:href="../Pictures/UI%20UX/fashion,%20clothing/Black%20face.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 762 766">
+      <image width="762" height="766" xlink:href="Axis%20-%201-image6.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 922 928">
+      <image width="922" height="928" xlink:href="Axis%20-%201-image9.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 762 766">
+      <image width="762" height="766" xlink:href="Axis%20-%201-image8.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 922 928">
+      <image width="922" height="928" xlink:href="Axis%20-%201-image10.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 762 766">
+      <image width="762" height="766" xlink:href="Axis%20-%201-image11.png"/>
+    </pattern>
+    <pattern id="pattern-7" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 922 928">
+      <image width="922" height="928" xlink:href="Axis%20-%201-image12.png"/>
+    </pattern>
+    <pattern id="pattern-8" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 762 766">
+      <image width="762" height="766" xlink:href="Axis%20-%201-image13.png"/>
+    </pattern>
+    <pattern id="pattern-9" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 922 928">
+      <image width="922" height="928" xlink:href="Axis%20-%201-image14.png"/>
+    </pattern>
+    <pattern id="pattern-10" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 762 766">
+      <image width="762" height="766" xlink:href="Axis%20-%201-image15.png"/>
+    </pattern>
+    <pattern id="pattern-11" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 512 512">
+      <image width="512" height="512" xlink:href="Axis%20-%201-image16.png"/>
+    </pattern>
+    <pattern id="pattern-12" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 512 512">
+      <image width="512" height="512" xlink:href="Axis%20-%201-image17.png"/>
+    </pattern>
+    <pattern id="pattern-13" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 512 512">
+      <image width="512" height="512" xlink:href="Axis%20-%201-image18.png"/>
+    </pattern>
+    <pattern id="pattern-14" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 337 149">
+      <image width="337" height="149" xlink:href="Axis%20-%201-image20.png"/>
+    </pattern>
+    <pattern id="pattern-15" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 320 100">
+      <image width="320" height="100" xlink:href="Axis%20-%201-image21.png"/>
+    </pattern>
+    <pattern id="pattern-16" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1366 403">
+      <image width="1366" height="403" xlink:href="Axis%20-%201-image22.png"/>
+    </pattern>
+    <pattern id="pattern-17" width="1" height="1" viewBox="-42.054 -14.937 384.945 95.873">
+      <image preserveAspectRatio="xMidYMid slice" width="300.837" height="66" xlink:href="Axis%20-%201-image23.png"/>
+    </pattern>
+    <pattern id="pattern-18" width="1" height="1" viewBox="-3.477 -18.869 342.955 85.739">
+      <image preserveAspectRatio="xMidYMid slice" width="336" height="48" xlink:href="../Pictures/UI%20UX/Iconns/brands/unnamed%20(8).png"/>
+    </pattern>
+    <pattern id="pattern-19" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 2400 1260">
+      <image width="2400" height="1260" xlink:href="Axis%20-%201-image24.png"/>
+    </pattern>
+    <pattern id="pattern-20" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 320 100">
+      <image width="320" height="100" xlink:href="Axis%20-%201-image25.png"/>
+    </pattern>
+    <clipPath id="clip-Axis_1">
+      <rect width="1920" height="7497"/>
+    </clipPath>
+    <image id="image" width="30" height="30" xlink:href="Axis%20-%201-image3.png"/>
+    <image id="image-2" width="30" height="30" xlink:href="Axis%20-%201-image4.png"/>
+    <image id="image-3" width="30" height="30" xlink:href="Axis%20-%201-image5.png"/>
+  </defs>
+  <g id="Axis_1" data-name="Axis – 1" clip-path="url(#clip-Axis_1)">
+    <rect width="1920" height="7497" fill="#fff"/>
+    <image id="girl_face" data-name="girl face" width="638" height="883" transform="translate(1282 199)" xlink:href="../Pictures/UI%20UX/fashion,%20clothing/girl%20face.png"/>
+    <text id="_1" data-name="1" transform="translate(393 6961)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+    <rect id="Rectangle_423" data-name="Rectangle 423" width="1920" height="836" transform="translate(0 6475)" fill="#151515"/>
+    <g id="Group_77" data-name="Group 77" transform="translate(-69 2887)">
+      <rect id="Rectangle_431" data-name="Rectangle 431" width="45" height="45" rx="22.5" transform="translate(1825 4507)" fill="#30ba8a"/>
+      <g id="icons_back-light" data-name="icons/back-light" transform="translate(1862 4515) rotate(90)">
+        <rect id="bg" width="28" height="28" fill="none"/>
+        <path id="icon" d="M7.258,15.457.418,8.617a.873.873,0,0,1-.3-1.182.877.877,0,0,1,.241-.281l6.9-6.9A.872.872,0,0,1,8.491,1.489L2.98,7H17.735a.872.872,0,1,1,0,1.744H3.012l5.479,5.479a.872.872,0,1,1-1.234,1.233Z" transform="translate(4.652 6.083)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="_Copyright_2020_Apex._by_Alaba._All_Rights_Reserved" data-name="@Copyright 2020 Apex. by Alaba. All Rights Reserved" transform="translate(118 7421)" fill="#282e2e" font-size="15" font-family="GothamLight, Gotham"><tspan x="0" y="0">@Copyright 2020 Apex. by Alaba. All Rights Reserved</tspan></text>
+    <g id="Group_90" data-name="Group 90" transform="translate(1792 126)">
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="4" cy="4" r="4" transform="translate(54 345) rotate(90)" fill="#fff"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="4" cy="4" r="4" transform="translate(54 451) rotate(90)" fill="#fff"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="4" cy="4" r="4" transform="translate(54 239) rotate(90)" fill="#fff"/>
+      <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(62 231) rotate(90)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+    </g>
+    <text id="About_Me" data-name="About Me" transform="translate(346 1360)" fill="#fff" font-size="31" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">About Me</tspan></text>
+    <rect id="Rectangle_771" data-name="Rectangle 771" width="1920" height="1148" transform="translate(0 1073)" fill="#fff"/>
+    <rect id="Rectangle_781" data-name="Rectangle 781" width="1920" height="2501" transform="translate(-1 2221)" fill="#f8f8f8"/>
+    <rect id="Rectangle_787" data-name="Rectangle 787" width="1920" height="1076" transform="translate(0 4722)" fill="#151515"/>
+    <g id="Group_435" data-name="Group 435" transform="translate(-2 -3)">
+      <g id="Group_411" data-name="Group 411" transform="translate(1293 4946)">
+        <rect id="Rectangle_796" data-name="Rectangle 796" width="224" height="71" transform="translate(286 2036)" fill="#30ba8a"/>
+        <text id="Submit" transform="translate(366 2080)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Submit</tspan></text>
+      </g>
+      <g id="Group_434" data-name="Group 434">
+        <g id="Group_431" data-name="Group 431">
+          <rect id="Rectangle_797" data-name="Rectangle 797" width="400" height="1" transform="translate(774 6802)" fill="#fff"/>
+          <text id="Name" transform="translate(803 6766)" fill="#b8b8b8" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Name</tspan></text>
+        </g>
+        <g id="Group_433" data-name="Group 433">
+          <rect id="Rectangle_799" data-name="Rectangle 799" width="1029" height="1" transform="translate(774 6923)" fill="#fff"/>
+          <text id="Message" transform="translate(803 6887)" fill="#b8b8b8" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Message</tspan></text>
+        </g>
+        <g id="Group_432" data-name="Group 432">
+          <rect id="Rectangle_798" data-name="Rectangle 798" width="500" height="1" transform="translate(1303 6801)" fill="#fff"/>
+          <text id="Email" transform="translate(1325 6764)" fill="#b8b8b8" font-size="23" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Email</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_438" data-name="Group 438" transform="translate(-533 -1)">
+      <g id="Group_436" data-name="Group 436" transform="translate(282)">
+        <text id="_23470-3428-1573" data-name="+23470-3428-1573" transform="translate(409 7248)" fill="#b8b8b8" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">+23470-3428-1573</tspan></text>
+        <image id="phone-call" width="20" height="20" transform="translate(369 7231)" xlink:href="Axis%20-%201-image.png"/>
+      </g>
+      <g id="Group_437" data-name="Group 437" transform="translate(65)">
+        <text id="badirualaba_gmail.com" data-name="badirualaba@gmail.com" transform="translate(1051 7248)" fill="#b8b8b8" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">badirualaba@gmail.com</tspan></text>
+        <image id="envelope" width="20" height="20" transform="translate(1011 7231)" xlink:href="Axis%20-%201-image2.png"/>
+      </g>
+    </g>
+    <use id="_021-pinterest" data-name="021-pinterest" transform="translate(1675 7401)" xlink:href="#image"/>
+    <use id="_047-behance" data-name="047-behance" transform="translate(1585 7401)" xlink:href="#image-2"/>
+    <use id="_040-dribbble" data-name="040-dribbble" transform="translate(1495 7401)" xlink:href="#image-3"/>
+    <g id="Group_419" data-name="Group 419" transform="translate(562 -261)">
+      <text id="Works" transform="translate(346 2651)" fill="#282e2e" font-size="40" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Works</tspan></text>
+      <rect id="Rectangle_814" data-name="Rectangle 814" width="3" height="56" transform="translate(333 2609)" fill="#30ba8a"/>
+    </g>
+    <text id="Axis" transform="translate(118 91)" fill="#282e2e" font-size="45" font-family="Poppins-ExtraBold, Poppins" font-weight="800"><tspan x="0" y="0">Axis</tspan></text>
+    <text id="Home" transform="translate(1125 91)" fill="#30ba8a" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Home</tspan></text>
+    <text id="About" transform="translate(1265 91)" fill="#888" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">About</tspan></text>
+    <text id="Services" transform="translate(1406 91)" fill="#888" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Services</tspan></text>
+    <text id="Works-2" data-name="Works" transform="translate(1570 91)" fill="#888" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Works</tspan></text>
+    <text id="Contact" transform="translate(1712 91)" fill="#888" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Contact</tspan></text>
+    <rect id="Rectangle_817" data-name="Rectangle 817" width="60" height="14" transform="translate(1125)" fill="#30ba8a"/>
+    <text id="Hello." transform="translate(115 355)" fill="#9a9a9a" font-size="45" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hello.</tspan></text>
+    <text id="I_m" data-name="I&apos;m" transform="translate(111 520)" fill="#282e2e" font-size="100" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">I&apos;m</tspan></text>
+    <text id="Badiru_" data-name="Badiru " transform="translate(659 520)" fill="#282e2e" font-size="100" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Badiru </tspan></text>
+    <text id="Alaba" transform="translate(300 520)" fill="#282e2e" font-size="100" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Alaba</tspan></text>
+    <g id="Group_417" data-name="Group 417" transform="translate(0 92)">
+      <text id="Designer" transform="translate(118 533)" fill="#9a9a9a" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">DESIGNER</tspan></text>
+      <text id="Developer" transform="translate(324 533)" fill="#9a9a9a" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">DEVELOPER</tspan></text>
+      <text id="Artist" transform="translate(547 533)" fill="#9a9a9a" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">ARTIST</tspan></text>
+      <circle id="Ellipse_264" data-name="Ellipse 264" cx="3" cy="3" r="3" transform="translate(276 522)" fill="#9a9a9a"/>
+      <circle id="Ellipse_265" data-name="Ellipse 265" cx="3" cy="3" r="3" transform="translate(499 522)" fill="#9a9a9a"/>
+    </g>
+    <g id="Black_face" data-name="Black face" transform="translate(219 1355)" stroke="#707070" stroke-width="2" fill="url(#pattern)">
+      <rect width="569" height="585" stroke="none"/>
+      <rect x="1" y="1" width="567" height="583" fill="none"/>
+    </g>
+    <text id="Looking_For_Who_To_Hire_" data-name="Looking For Who To Hire?" transform="translate(960 1509)" fill="#30ba8a" font-size="50" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Looking For Who To Hire?</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+" transform="translate(960 1627)" fill="#9a9a9a" font-size="23" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="24">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam </tspan><tspan x="0" y="60">nonumy eirmod tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="96">aliquyam erat, sed diam voluptua.</tspan></text>
+    <g id="Rectangle_796-2" data-name="Rectangle 796" transform="translate(960 1843)" fill="none" stroke="#282e2e" stroke-width="2">
+      <rect width="259" height="71" stroke="none"/>
+      <rect x="1" y="1" width="257" height="69" fill="none"/>
+    </g>
+    <g id="Group_418" data-name="Group 418" transform="translate(-11 128)">
+      <rect id="Rectangle_813" data-name="Rectangle 813" width="3" height="56" transform="translate(971 1252)" fill="#30ba8a"/>
+      <text id="About-2" data-name="About" transform="translate(984 1294)" fill="#282e2e" font-size="40" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">About</tspan></text>
+    </g>
+    <text id="Awesome_Projects" data-name="Awesome Projects" transform="translate(732 2457)" fill="#30ba8a" font-size="50" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Awesome Projects</tspan></text>
+    <g id="Group_425" data-name="Group 425" transform="translate(-35)">
+      <g id="Group_422" data-name="Group 422" transform="translate(5)">
+        <rect id="Rectangle_823" data-name="Rectangle 823" width="150" height="65" transform="translate(976 2575)" fill="#fff"/>
+        <text id="Art" transform="translate(1037 2615)" fill="#282e2e" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Art</tspan></text>
+      </g>
+      <g id="Group_421" data-name="Group 421" transform="translate(5)">
+        <rect id="Rectangle_822" data-name="Rectangle 822" width="150" height="65" transform="translate(821 2575)" fill="#fff"/>
+        <text id="UIUX" transform="translate(874 2615)" fill="#282e2e" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">UIUX</tspan></text>
+      </g>
+      <g id="Group_423" data-name="Group 423" transform="translate(5)">
+        <rect id="Rectangle_824" data-name="Rectangle 824" width="150" height="65" transform="translate(1131 2575)" fill="#fff"/>
+        <text id="Web" transform="translate(1184 2615)" fill="#282e2e" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Web</tspan></text>
+      </g>
+      <g id="Group_424" data-name="Group 424">
+        <rect id="Rectangle_818" data-name="Rectangle 818" width="107" height="65" transform="translate(714 2575)" fill="#282e2e"/>
+        <text id="All" transform="translate(756 2615)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">All</tspan></text>
+      </g>
+    </g>
+    <g id="Group_442" data-name="Group 442">
+      <rect id="simple1" width="495" height="490" transform="translate(217 2781)" fill="url(#pattern-2)"/>
+      <rect id="simple9" width="495" height="490" transform="translate(712 2781)" fill="url(#pattern-3)"/>
+      <rect id="simple" width="495" height="490" transform="translate(1206 2781)" fill="url(#pattern-4)"/>
+    </g>
+    <g id="Group_443" data-name="Group 443" transform="translate(0 490)">
+      <rect id="simple8" width="495" height="490" transform="translate(217 2781)" fill="url(#pattern-5)"/>
+      <rect id="simple2" width="495" height="490" transform="translate(712 2781)" fill="url(#pattern-6)"/>
+      <rect id="simple13" width="495" height="490" transform="translate(1206 2781)" fill="url(#pattern-7)"/>
+    </g>
+    <g id="Group_444" data-name="Group 444" transform="translate(0 980)">
+      <rect id="simple7" width="495" height="490" transform="translate(217 2781)" fill="url(#pattern-8)"/>
+      <rect id="simple11" width="495" height="490" transform="translate(712 2781)" fill="url(#pattern-9)"/>
+      <rect id="simple6" width="495" height="490" transform="translate(1206 2781)" fill="url(#pattern-10)"/>
+    </g>
+    <g id="Group_426" data-name="Group 426" transform="translate(100 86)">
+      <g id="Rectangle_825" data-name="Rectangle 825" transform="translate(780 4346)" fill="none" stroke="#282e2e" stroke-width="1">
+        <rect width="160" height="70" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="69" fill="none"/>
+      </g>
+      <text id="More" transform="translate(835 4388)" fill="#282e2e" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">More</tspan></text>
+    </g>
+    <g id="Rectangle_838" data-name="Rectangle 838" transform="translate(217 4953)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1486" height="615" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1485" height="614" fill="none"/>
+    </g>
+    <g id="Group_446" data-name="Group 446" transform="translate(-3 102)">
+      <g id="Group_428" data-name="Group 428" transform="translate(0 -126)">
+        <rect id="_040-tools-and-utensils-4" data-name="040-tools-and-utensils-4" width="90" height="90" transform="translate(420 5109)" fill="url(#pattern-11)"/>
+        <text id="Front-end_Development" data-name="Front-end 
+Development" transform="translate(465 5307)" fill="#282e2e" font-size="27" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-72.185" y="0">Front-end </tspan><tspan x="-91.476" y="35">Development</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+" transform="translate(311 5383)" fill="#707070" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="8.375" y="16">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="25.948" y="39">sadipscing elitr, sed diam nonumy </tspan><tspan x="20.69" y="62">eirmod tempor invidunt ut labore et </tspan></text>
+      </g>
+      <g id="Group_428-2" data-name="Group 428" transform="translate(499 -126)">
+        <rect id="vector" width="90" height="90" transform="translate(416 5109)" fill="url(#pattern-12)"/>
+        <text id="UIUX-2" data-name="UIUX" transform="translate(465 5307)" fill="#282e2e" font-size="27" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-31.104" y="0">UIUX</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+" transform="translate(311 5383)" fill="#707070" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="8.375" y="16">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="25.948" y="39">sadipscing elitr, sed diam nonumy </tspan><tspan x="20.69" y="62">eirmod tempor invidunt ut labore et </tspan></text>
+      </g>
+      <g id="Group_428-3" data-name="Group 428" transform="translate(998 -126)">
+        <rect id="_046-web-site-3" data-name="046-web-site-3" width="90" height="90" transform="translate(420 5109)" fill="url(#pattern-13)"/>
+        <text id="Web_Design" data-name="Web
+Design" transform="translate(465 5307)" fill="#282e2e" font-size="27" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-30.969" y="0">Web</tspan><tspan x="-46.589" y="35">Design</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._4" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+" transform="translate(311 5383)" fill="#707070" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="8.375" y="16">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="25.948" y="39">sadipscing elitr, sed diam nonumy </tspan><tspan x="20.69" y="62">eirmod tempor invidunt ut labore et </tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_826" data-name="Rectangle 826" width="1920" height="677" transform="translate(0 5798)" fill="#fff"/>
+    <g id="Group_445" data-name="Group 445" transform="translate(-12 114)">
+      <image id="dribble" width="156" height="39" transform="translate(254 5862)" xlink:href="Axis%20-%201-image19.png"/>
+      <rect id="infinix" width="156" height="39" transform="translate(660 5862)" fill="url(#pattern-14)"/>
+      <rect id="unnamed_2_" data-name="unnamed (2)" width="325" height="81" transform="translate(1007 5847)" fill="url(#pattern-15)"/>
+      <rect id="unnamed_1_" data-name="unnamed (1)" width="156" height="39" transform="translate(1523 5879)" fill="url(#pattern-16)"/>
+      <rect id="purchaser-microsoft.7aa030a" width="265" height="66" transform="translate(200 6128)" fill="url(#pattern-17)"/>
+      <rect id="unnamed_8_" data-name="unnamed (8)" width="192" height="48" transform="translate(642 6146)" fill="url(#pattern-18)"/>
+      <rect id="unnamed_7_" data-name="unnamed (7)" width="232" height="58" transform="translate(1053 6141)" fill="url(#pattern-19)"/>
+      <rect id="unnamed_4_" data-name="unnamed (4)" width="285" height="71" transform="translate(1459 6128)" fill="url(#pattern-20)"/>
+    </g>
+    <g id="Group_430" data-name="Group 430" transform="translate(0 150)">
+      <text id="Get_in_Touch" data-name="Get in Touch" transform="translate(118 6719)" fill="#30ba8a" font-size="50" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Get in Touch</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._5" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+" transform="translate(118 6807)" fill="#b8b8b8" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="16">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed </tspan><tspan x="0" y="39">diam nonumy eirmod tempor invidunt ut labore et dolore </tspan><tspan x="0" y="62">magna aliquyam erat, sed diam voluptua.</tspan></text>
+      <g id="Group_429" data-name="Group 429" transform="translate(-215 3981)">
+        <text id="Contact-2" data-name="Contact" transform="translate(346 2651)" fill="#fff" font-size="40" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Contact</tspan></text>
+        <rect id="Rectangle_814-2" data-name="Rectangle 814" width="3" height="56" transform="translate(333 2609)" fill="#30ba8a"/>
+      </g>
+    </g>
+    <g id="Group_439" data-name="Group 439" transform="translate(0 11)">
+      <use id="_021-pinterest-2" data-name="021-pinterest" transform="translate(343 984)" xlink:href="#image"/>
+      <use id="_047-behance-2" data-name="047-behance" transform="translate(230 984)" xlink:href="#image-2"/>
+      <use id="_040-dribbble-2" data-name="040-dribbble" transform="translate(118 984)" xlink:href="#image-3"/>
+    </g>
+    <g id="Group_440" data-name="Group 440" transform="translate(5)">
+      <text id="Download_CV" data-name="Download CV" transform="translate(1035 1886)" fill="#151515" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Download CV</tspan></text>
+      <image id="download" width="15" height="15" transform="translate(1000 1871)" xlink:href="../Pictures/UI%20UX/Iconns/126466-multimedia-collection/png/download.png"/>
+    </g>
+    <g id="Group_441" data-name="Group 441" transform="translate(1 -51)" opacity="0.35">
+      <path id="Path_333" data-name="Path 333" d="M2888.371,947l18.363,18.918L2925.6,947" transform="translate(-1954 -69.965)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Path_333-2" data-name="Path 333" d="M2888.371,947l18.363,18.918L2925.6,947" transform="translate(-1954 -54.177)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+    <rect id="Rectangle_841" data-name="Rectangle 841" width="571" height="154" transform="translate(1348 2090)" fill="#f8f8f8"/>
+  </g>
+</svg>
