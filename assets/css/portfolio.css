@@ -1,4 +1,84 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+/* poppins-200 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/poppins-v9-latin-200.eot"); /* IE9 Compat Modes */
+  src: local("Poppins ExtraLight"), local("Poppins-ExtraLight"),
+    url("../fonts/poppins-v9-latin-200.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v9-latin-200.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v9-latin-200.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v9-latin-200.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v9-latin-200.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-300 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/poppins-v9-latin-300.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Light"), local("Poppins-Light"),
+    url("../fonts/poppins-v9-latin-300.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v9-latin-300.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v9-latin-300.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v9-latin-300.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v9-latin-300.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-regular - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/poppins-v9-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Regular"), local("Poppins-Regular"),
+    url("../fonts/poppins-v9-latin-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v9-latin-regular.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v9-latin-regular.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v9-latin-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/poppins-v9-latin-regular.svg#Poppins") format("svg"); /* Legacy iOS */
+}
+/* poppins-500 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/poppins-v9-latin-500.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Medium"), local("Poppins-Medium"),
+    url("../fonts/poppins-v9-latin-500.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v9-latin-500.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v9-latin-500.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v9-latin-500.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v9-latin-500.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-700 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/poppins-v9-latin-700.eot"); /* IE9 Compat Modes */
+  src: local("Poppins Bold"), local("Poppins-Bold"),
+    url("../fonts/poppins-v9-latin-700.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v9-latin-700.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v9-latin-700.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v9-latin-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v9-latin-700.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
 
 /* colors */
 :root {
@@ -32,45 +112,69 @@ header {
   background-repeat: no-repeat;
   background-size: 400px;
   background-position: right bottom;
+  overflow: hidden;
+  position: relative;
 }
+/* Navigation bar */
 header .navbar {
   padding: 0;
+  /* background: pink; */
 }
 header .navbar.navbar-light .navbar-brand {
   font-size: 35px;
-  font-weight: 800;
+  font-weight: 700;
   color: var(--logo-color);
 }
+/* #collapsibleNavbar.collapse.navbar-collapse {
+  height: 100% !important;
+} */
 header .navbar #collapsibleNavbar .nav-item {
   margin-right: 30px;
+  margin-top: 0;
   height: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+header .navbar #collapsibleNavbar .nav-item span.active {
+  opacity: 0;
+  transition: opacity 700ms;
+}
+header .navbar #collapsibleNavbar .nav-item.active span.active {
+  opacity: 1;
+}
+header .navbar #collapsibleNavbar .nav-item:hover > span {
+  opacity: 1;
+}
+header .navbar #collapsibleNavbar .nav-item span.active {
+  height: 8px;
+  position: relative;
+  top: -8px;
+  width: 100%;
+  background-color: var(--leading-font-color);
 }
 header .navbar #collapsibleNavbar .nav-item .nav-link {
   color: var(--sublinks);
+  font-weight: 500;
   font-size: 14px;
+  padding-bottom: 0 !important;
 }
-header .navbar #collapsibleNavbar .nav-item.active {
-  border-top: 8px solid var(--leading-font-color);
+header .navbar #collapsibleNavbar .nav-item.active .nav-link {
+  /* border-top: 8px solid var(--leading-font-color); */
   color: var(--leading-font-color);
 }
 
-/* into content */
+/* intro content */
 .hero {
-  height: 90vh;
-  /* background-color: black; */
+  height: 100vh;
 }
 .hero-content {
-  /* background-color: aquamarine; */
   height: 100%;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center; */
   position: relative;
 }
 .content-wrap {
   position: absolute;
   width: 100%;
-  /* background-color: blanchedalmond; */
   top: 25%;
 }
 .hero-content p {
@@ -107,11 +211,80 @@ header .navbar #collapsibleNavbar .nav-item.active {
 }
 
 header .social-handle {
+  position: absolute;
   display: flex;
-  position: relative;
   width: 200px;
   justify-content: space-between;
-  top: -20px;
+  bottom: 0;
   font-size: 20px;
   font-weight: bold;
+}
+header .social-handle a {
+  color: var(--bold-font-color);
+}
+
+/* About Section */
+section.about {
+  padding: 80px 0 80px;
+  height: 100vh;
+}
+section.about .img-wrap {
+  margin: auto;
+  position: relative;
+}
+section.about .img-wrap img {
+  width: 100%;
+  max-width: 350px;
+  border: 1px solid var(--bold-font-color);
+  position: relative;
+  padding: 10px 40px 0 0;
+  display: block;
+}
+.about-content h3 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  position: relative;
+  margin-left: 10px;
+}
+.about-content::before {
+  content: "";
+  position: absolute;
+  height: 10%;
+  width: 3px;
+  background-color: var(--leading-font-color);
+}
+.about-content h1 {
+  color: var(--leading-font-color);
+  font-weight: normal;
+  font-size: 35px;
+  margin-bottom: 70px;
+}
+.about-content p {
+  line-height: 25px;
+  margin-bottom: 40px;
+}
+/* 1440 hack */
+@media screen and (max-width: 1440px) and (min-width: 1350px) {
+  header {
+    height: 100vh;
+    background-position: right bottom;
+    background-size: 550px;
+  }
+}
+/* header mobile */
+@media screen and (max-width: 360px) {
+  header {
+    height: 100vh;
+    background-size: 200px;
+  }
+  .social-handle {
+    flex-direction: column;
+  }
+  .content-wrap .skill {
+    display: block;
+  }
+  .content-wrap .skills .seperator {
+    display: none;
+  }
 }
