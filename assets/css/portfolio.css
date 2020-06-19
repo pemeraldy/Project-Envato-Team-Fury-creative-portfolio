@@ -263,6 +263,20 @@ section.about .img-wrap img {
 .about-content p {
   line-height: 25px;
   margin-bottom: 40px;
+  width: 80%;
+}
+
+.about-content a.btn {
+  background-color: #fff;
+  color: var(--main-font-color);
+  border-radius: 0;
+  color: var(--bold-font-color);
+  border: 1px solid var(--bold-font-color);
+  padding: 10px;
+  width: 180px;
+}
+.about-content a.btn i {
+  margin-right: 10px;
 }
 /* 1440 hack */
 @media screen and (max-width: 1440px) and (min-width: 1350px) {
