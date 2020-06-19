@@ -225,7 +225,7 @@ header .social-handle a {
 
 /* About Section */
 section.about {
-  padding: 80px 0 80px;
+  padding: 120px 0 80px;
   height: 100vh;
 }
 section.about .img-wrap {
@@ -284,6 +284,9 @@ section.about .img-wrap img {
     height: 100vh;
     background-position: right bottom;
     background-size: 550px;
+  }
+  section.about {
+    padding: 200px 0 80px;
   }
 }
 /* header mobile */
